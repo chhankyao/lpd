@@ -1,8 +1,10 @@
-## Discovering 3D Parts from Image Collections
 
-You can use the [editor on GitHub](https://github.com/chhankyao/lpd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Discovering 3D Parts from Image Collections
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div align="center">
+  Chun-Han Yao    Wei-Chih Hung    Varun Jampani    Ming-Hsuan Yang
+</div>
+
 
 ## Abstract
 
@@ -22,6 +24,8 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 - Paper: [PDF](https://chhankyao.github.io/papers/yao21_lpd.pdf)
 
 - Supplementary: [PDF](https://chhankyao.github.io/papers/yao21_lpd_supp.pdf)
+
+- PyTorch Code: [Github](https://github.com/chhankyao/lpd)
 
 - Bibtex
 
@@ -43,11 +47,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-- PyTorch Code: [Github](https://github.com/chhankyao/lpd)
-
 
 ## Video
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/dieaLFqm5EM)
 
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
