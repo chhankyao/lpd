@@ -44,14 +44,21 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 
 - PyTorch Code: [Github](https://github.com/chhankyao/lpd)
 
-- Bibtex
-
-```markdown
-```
-
 
 ## Video
 
 <center>
 <iframe width="900" height="500" src="https://youtube.com/embed/dieaLFqm5EM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
+
+
+## Bibtex
+
+```markdown
+@inproceedings{yao2021discovering,
+  title={Discovering 3D Parts from Image Collections},
+  author={Yao, Chun-Han and Hung, Wei-Chih and Jampani, Varun and Yang, Ming-Hsuan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year={2021}
+}
+```
