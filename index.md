@@ -10,17 +10,17 @@ Reasoning 3D shapes from 2D images is an essential yet challenging task, especia
 While an object can have a complicated shape, individual parts are usually close to geometric primitives and thus are easier to model. 
 Furthermore, parts provide a mid-level representation that is robust to appearance variations across objects in a particular category.
 In this work, we tackle the problem of 3D part discovery from only 2D image collections.
-Instead of relying on manually annotated parts for supervision, we propose a self-supervised approach, latent part discovery (\ours).
+Instead of relying on manually annotated parts for supervision, we propose a self-supervised approach, latent part discovery (LPD).
 Our key insight is to learn a novel part shape prior that allows each part to fit an object shape faithfully while constrained to have simple geometry.
 Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 3D+ datasets show that our method discovers consistent object parts and achieves favorable reconstruction accuracy compared to the existing methods with the same level of supervision.
 
-## Paper
+## Paper & Code
 
-## Video
+- Paper: PDF
 
-## Code
+- Supplementary: PDF
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Bibtex
 
 ```markdown
 Syntax highlighted code block
@@ -40,12 +40,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- PyTorch Code: [Github](https://github.com/chhankyao/lpd)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chhankyao/lpd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Video
 
-### Support or Contact
+
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
