@@ -50,11 +50,8 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 ```
 
 
-[comment]: Video
+## Video
 <h3> Video </h3>
 <center>
 <iframe width="900" height="500" src="https://youtube.com/embed/dieaLFqm5EM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dieaLFqm5EM/0.jpg)](https://youtu.be/dieaLFqm5EM)
-
