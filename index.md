@@ -1,5 +1,8 @@
 
-# Discovering 3D Parts from Image Collections
+
+[comment]: Title
+<h2 align="center"> Discovering 3D Parts from Image Collections </h2>
+<p>&nbsp;</p>
 
 <p style="text-align: center;">
 <a href="https://www.chhankyao.com/" style="color: #CC0000"> Chun-Han Yao </a>
@@ -13,7 +16,8 @@
 <p>&nbsp;</p>
 
 
-## Abstract
+[comment]: Abstract
+<h3> Abstract </h3>
 
 Reasoning 3D shapes from 2D images is an essential yet challenging task, especially when only single-view images are at our disposal.
 While an object can have a complicated shape, individual parts are usually close to geometric primitives and thus are easier to model. 
@@ -23,7 +27,17 @@ Instead of relying on manually annotated parts for supervision, we propose a sel
 Our key insight is to learn a novel part shape prior that allows each part to fit an object shape faithfully while constrained to have simple geometry.
 Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 3D+ datasets show that our method discovers consistent object parts and achieves favorable reconstruction accuracy compared to the existing methods with the same level of supervision.
 
-![Image](https://chhankyao.github.io/papers/cover.png)
+<center>
+<figure>
+		<div id="projectid">
+    <img src="https://chhankyao.github.io/papers/cover.png" width="900px" />
+		</div>
+		<br />
+    <figcaption>
+				Our method (LPD) enables self-supervised 3D part discovery while learning to reconstruct object shapes from single-view images. Compared to other methods using different part constraints, LPD discovers more faithful and consistent parts, which improve the reconstruction quality and allow part reasoning/manipulation.
+    </figcaption>
+</figure>
+</center>
 
 
 ## Paper & Code
@@ -40,8 +54,7 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 ```
 
 
-## Video
-
+[comment]: Video
 <h3> Video </h3>
 <center>
 <iframe width="900" height="500" src="https://youtu.be/dieaLFqm5EM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
