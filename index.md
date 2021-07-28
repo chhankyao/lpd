@@ -48,7 +48,7 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 ## Video
 
 <center>
-<iframe class="responsive-iframe" src="https://youtube.com/embed/dieaLFqm5EM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="900" src="https://youtube.com/embed/dieaLFqm5EM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
 
