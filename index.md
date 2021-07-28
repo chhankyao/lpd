@@ -1,9 +1,16 @@
 
 # Discovering 3D Parts from Image Collections
 
-<div align="center">
-  Chun-Han Yao    Wei-Chih Hung    Varun Jampani    Ming-Hsuan Yang
-</div>
+<p style="text-align: center;">
+<a href="https://www.chhankyao.com/" style="color: #CC0000"> Chun-Han Yao </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://hfslyc.github.io" style="color: #CC0000"> Wei-Chih Hung </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://varunjampani.github.io" style="color: #CC0000"> Varun Jampani </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://faculty.ucmerced.edu/mhyang/" style="color: #CC0000"> Ming-Hsuan Yang </a>
+</p>
+<p>&nbsp;</p>
 
 
 ## Abstract
@@ -34,6 +41,11 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 
 
 ## Video
+
+<h3> Video </h3>
+<center>
+<iframe width="900" height="500" src="https://youtu.be/dieaLFqm5EM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dieaLFqm5EM/0.jpg)](https://youtu.be/dieaLFqm5EM)
 
