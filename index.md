@@ -14,14 +14,14 @@ Instead of relying on manually annotated parts for supervision, we propose a sel
 Our key insight is to learn a novel part shape prior that allows each part to fit an object shape faithfully while constrained to have simple geometry.
 Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 3D+ datasets show that our method discovers consistent object parts and achieves favorable reconstruction accuracy compared to the existing methods with the same level of supervision.
 
-![Image](https://github.com/chhankyao/papers/cover.png)
+![Image](https://chhankyao.github.io/papers/cover.png)
 
 
 ## Paper & Code
 
-- Paper: [PDF](https://github.com/chhankyao/papers/yao21_lpd.pdf)
+- Paper: [PDF](https://chhankyao.github.io/papers/yao21_lpd.pdf)
 
-- Supplementary: [PDF](https://github.com/chhankyao/papers/yao21_lpd_supp.pdf)
+- Supplementary: [PDF](https://chhankyao.github.io/papers/yao21_lpd_supp.pdf)
 
 - Bibtex
 
