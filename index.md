@@ -1,8 +1,5 @@
+# Discovering 3D Parts from Image Collections
 
-
-[comment]: Title
-<h2 align="center"> Discovering 3D Parts from Image Collections </h2>
-<p>&nbsp;</p>
 
 <p style="text-align: center;">
 <a href="https://www.chhankyao.com/" style="color: #CC0000"> Chun-Han Yao </a>
@@ -16,8 +13,7 @@
 <p>&nbsp;</p>
 
 
-[comment]: Abstract
-<h3> Abstract </h3>
+## Abstract
 
 Reasoning 3D shapes from 2D images is an essential yet challenging task, especially when only single-view images are at our disposal.
 While an object can have a complicated shape, individual parts are usually close to geometric primitives and thus are easier to model. 
@@ -57,7 +53,7 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 [comment]: Video
 <h3> Video </h3>
 <center>
-<iframe width="900" height="500" src="https://youtu.be/dieaLFqm5EM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="900" height="500" src="https://youtube.com/embed/dieaLFqm5EM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dieaLFqm5EM/0.jpg)](https://youtu.be/dieaLFqm5EM)
