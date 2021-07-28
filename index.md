@@ -30,25 +30,10 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 - Bibtex
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 
 ## Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/dieaLFqm5EM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dieaLFqm5EM/0.jpg)](https://youtu.be/dieaLFqm5EM)
 
