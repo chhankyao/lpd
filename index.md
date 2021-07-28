@@ -2,13 +2,13 @@
 
 
 <p style="text-align: center;">
-<a href="https://www.chhankyao.com/" style="color: #CC0000"> Chun-Han Yao </a>
+<a href="https://www.chhankyao.com/" style="color: ##6495ED"> Chun-Han Yao </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://hfslyc.github.io" style="color: #CC0000"> Wei-Chih Hung </a>
+<a href="https://hfslyc.github.io" style="color: ##6495ED"> Wei-Chih Hung </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://varunjampani.github.io" style="color: #CC0000"> Varun Jampani </a>
+<a href="http://varunjampani.github.io" style="color: ##6495ED"> Varun Jampani </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://faculty.ucmerced.edu/mhyang/" style="color: #CC0000"> Ming-Hsuan Yang </a>
+<a href="http://faculty.ucmerced.edu/mhyang/" style="color: ##6495ED"> Ming-Hsuan Yang </a>
 </p>
 <p>&nbsp;</p>
 
@@ -25,12 +25,12 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 
 <center>
 <figure>
-		<div id="projectid">
+    <div id="projectid">
     <img src="https://chhankyao.github.io/papers/cover.png" width="900px" />
-		</div>
-		<br />
+    </div>
+    <br />
     <figcaption>
-				Our method (LPD) enables self-supervised 3D part discovery while learning to reconstruct object shapes from single-view images. Compared to other methods using different part constraints, LPD discovers more faithful and consistent parts, which improve the reconstruction quality and allow part reasoning/manipulation.
+	Our method (LPD) enables self-supervised 3D part discovery while learning to reconstruct object shapes from single-view images. Compared to other methods using different part constraints, LPD discovers more faithful and consistent parts, which improve the reconstruction quality and allow part reasoning/manipulation.
     </figcaption>
 </figure>
 </center>
@@ -51,7 +51,7 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 
 
 ## Video
-<h3> Video </h3>
+
 <center>
 <iframe width="900" height="500" src="https://youtube.com/embed/dieaLFqm5EM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
