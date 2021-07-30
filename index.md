@@ -38,7 +38,7 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 
 ## Paper & Code
 
-- Paper: [PDF](https://chhankyao.github.io/papers/yao21_lpd_arxiv.pdf)
+- Paper: [PDF](https://arxiv.org/pdf/2107.13629.pdf)
 
 - Supplementary: [PDF](https://chhankyao.github.io/papers/yao21_lpd_supp.pdf)
 
