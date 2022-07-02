@@ -30,10 +30,11 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
     </div>
     <br />
     <figcaption>
-	Our method (LPD) enables self-supervised 3D part discovery while learning to reconstruct object shapes from single-view images. Compared to other methods using different part constraints, LPD discovers more faithful and consistent parts, which improve the reconstruction quality and allow part reasoning/manipulation.
     </figcaption>
 </figure>
 </center>
+
+Our method (LPD) enables self-supervised 3D part discovery while learning to reconstruct object shapes from single-view images. Compared to other methods using different part constraints, LPD discovers more faithful and consistent parts, which improve the reconstruction quality and allow part reasoning/manipulation.
 
 
 ## Paper & Code
