@@ -26,7 +26,7 @@ Extensive experiments on the synthetic ShapeNet, PartNet, and real-world Pascal 
 <center>
 <figure>
     <div id="projectid">
-    <img src="https://chhankyao.github.io/papers/cover.png" width="900px" />
+    <img src="https://chhankyao.github.io/lpd/cover.png" width="900px" />
     </div>
     <br />
     <figcaption>
